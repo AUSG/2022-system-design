@@ -13,9 +13,9 @@
 
 # 🍕 시스템 설계 기초 참여 멤버 🍕
 
-[@14km](https://github.com/14km) | [@enif-lee](https://github.com/enif-lee) | [@14km](https://github.com/14km) | [@enif-lee](https://github.com/enif-lee)
+[@14km](https://github.com/14km) | [@enif-lee](https://github.com/enif-lee) | [@kshired](https://github.com/kshired) | [@enif-lee](https://github.com/enif-lee)
 --- | --- | --- | ---
-![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1)
+![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1)
 
 ## 멤버 추가 방법
 
