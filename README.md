@@ -13,9 +13,9 @@
 
 # 🍕 시스템 설계 기초 참여 멤버 🍕
 
-[@14km](https://github.com/14km) | [@enif-lee](https://github.com/enif-lee) | [@AllyHyeseongKim](https://github.com/AllyHyeseongKim) | [@enif-lee](https://github.com/enif-lee)
---- | --- | --- | ---
-![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1)
+[@14km](https://github.com/14km) | [@enif-lee](https://github.com/enif-lee) | [@AllyHyeseongKim](https://github.com/AllyHyeseongKim) | [@mokhs00](https://github.com/mokhs00) | [@enif-lee](https://github.com/enif-lee)
+--- | --- | --- | --- | --- |
+![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@mokhs00](https://avatars.githubusercontent.com/u/72328687?s=150&v=1) | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1)
 
 ## 멤버 추가 방법
 
