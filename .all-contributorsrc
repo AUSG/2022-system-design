@@ -14,6 +14,16 @@
         "infra",
         "code"
       ]
+    },
+    {
+      "login": "enif-lee",
+      "name": "enif.lee (eric at CHAI)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9916002?v=4",
+      "profile": "http://sticky32.tistory.com/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
