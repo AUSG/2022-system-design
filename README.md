@@ -1,6 +1,6 @@
 # 2022-system-design
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 숙제 인증 또는 추가 방법
@@ -36,6 +36,7 @@
     <td align="center"><a href="https://github.com/kather0220"><img src="https://avatars.githubusercontent.com/u/78165538?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kather0220</b></sub></a><br /><a href="#infra-kather0220" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-kather0220" title="Talks">📢</a></td>
     <td align="center"><a href="https://blog.naver.com/jd06280"><img src="https://avatars.githubusercontent.com/u/61075048?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eunz_juu</b></sub></a><br /><a href="#infra-Song-EunJu" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-Song-EunJu" title="Talks">📢</a></td>
     <td align="center"><a href="https://dar0m.tistory.com/"><img src="https://avatars.githubusercontent.com/u/44438366?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Darom Kim</b></sub></a><br /><a href="#infra-vo0a" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-vo0a" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/dltjdn"><img src="https://avatars.githubusercontent.com/u/78267146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dltjdn</b></sub></a><br /><a href="#infra-dltjdn" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-dltjdn" title="Talks">📢</a></td>
   </tr>
 </table>
 
