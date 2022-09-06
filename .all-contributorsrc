@@ -64,6 +64,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "kyY00n",
+      "name": "Kayoung Yoon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61582017?v=4",
+      "profile": "https://github.com/kyY00n",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
