@@ -24,6 +24,7 @@
 | [소정](https://github.com/14km)                                        | [휘정](https://github.com/enif-lee)                                       | [혜수](https://github.com/AllyHyeseongKim)                                        | -                                                                       |
 | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | -                                                                       |
 
+
 ## 멤버 추가 방법
 
 - `[@14km](https://github.com/14km)` 다음과 같은 본인의 닉네임과 멘션을 추가한다.
