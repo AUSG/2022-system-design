@@ -104,6 +104,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "dltjdn",
+      "name": "dltjdn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78267146?v=4",
+      "profile": "https://github.com/dltjdn",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
