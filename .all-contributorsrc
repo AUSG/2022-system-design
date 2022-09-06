@@ -54,6 +54,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "mokhs00",
+      "name": "Hansu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72328687?v=4",
+      "profile": "https://rnokhs.tistory.com/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
