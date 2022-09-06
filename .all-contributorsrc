@@ -24,6 +24,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "AllyHyeseongKim",
+      "name": "AllyHyeseongKim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39588623?v=4",
+      "profile": "https://www.linkedin.com/in/allyhyeseongkim/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
