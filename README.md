@@ -1,6 +1,6 @@
 # 2022-system-design
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 숙제 인증 또는 추가 방법
@@ -27,6 +27,7 @@
     <td align="center"><a href="https://github.com/14km"><img src="https://avatars.githubusercontent.com/u/45898974?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MinTae Kim</b></sub></a><br /><a href="#infra-14km" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/AUSG/2022-system-design/commits?author=14km" title="Code">💻</a></td>
     <td align="center"><a href="http://sticky32.tistory.com/"><img src="https://avatars.githubusercontent.com/u/9916002?v=4?s=100" width="100px;" alt=""/><br /><sub><b>enif.lee (eric at CHAI)</b></sub></a><br /><a href="#infra-enif-lee" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-enif-lee" title="Talks">📢</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/allyhyeseongkim/"><img src="https://avatars.githubusercontent.com/u/39588623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AllyHyeseongKim</b></sub></a><br /><a href="#infra-AllyHyeseongKim" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-AllyHyeseongKim" title="Talks">📢</a></td>
+    <td align="center"><a href="https://velog.io/@kshired"><img src="https://avatars.githubusercontent.com/u/36851531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SEONGILKIM</b></sub></a><br /><a href="#infra-kshired" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-kshired" title="Talks">📢</a></td>
   </tr>
 </table>
 
