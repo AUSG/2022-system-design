@@ -34,6 +34,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "kshired",
+      "name": "SEONGILKIM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36851531?v=4",
+      "profile": "https://velog.io/@kshired",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
