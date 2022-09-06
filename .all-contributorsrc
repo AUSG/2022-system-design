@@ -84,6 +84,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "Song-EunJu",
+      "name": "eunz_juu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61075048?v=4",
+      "profile": "https://blog.naver.com/jd06280",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
