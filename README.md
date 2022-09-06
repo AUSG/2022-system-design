@@ -19,11 +19,10 @@
 | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
 | [한수](https://github.com/14km)                                        | [다롬](https://github.com/enif-lee)                                       | [선효](https://github.com/AllyHyeseongKim)                                        | [지수](https://github.com/kshired)                                        |
 | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
-| [성훈](https://github.com/14km)                                        | [은주](https://github.com/enif-lee)                                       | [가영](https://github.com/AllyHyeseongKim)                                        | [서우](https://github.com/kshired)                                        |
-| ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
+| [성훈](https://github.com/14km)                                        | [은주](https://github.com/enif-lee)                                       | [@KyY00n](https://github.com/KyY00n)                                        | [서우](https://github.com/kshired)                                        |
+| ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@KyY00n](https://avatars.githubusercontent.com/u/61582017?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
 | [소정](https://github.com/14km)                                        | [휘정](https://github.com/enif-lee)                                       | [혜수](https://github.com/AllyHyeseongKim)                                        | -                                                                       |
 | ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | -                                                                       |
-
 
 ## 멤버 추가 방법
 
