@@ -94,6 +94,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "vo0a",
+      "name": "Darom Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44438366?v=4",
+      "profile": "https://dar0m.tistory.com/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
