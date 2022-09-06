@@ -1,6 +1,6 @@
 # 2022-system-design
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 숙제 인증 또는 추가 방법
@@ -30,6 +30,7 @@
     <td align="center"><a href="https://velog.io/@kshired"><img src="https://avatars.githubusercontent.com/u/36851531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SEONGILKIM</b></sub></a><br /><a href="#infra-kshired" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-kshired" title="Talks">📢</a></td>
     <td align="center"><a href="https://github.com/kaonmir"><img src="https://avatars.githubusercontent.com/u/40649016?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kaonmir</b></sub></a><br /><a href="#infra-kaonmir" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-kaonmir" title="Talks">📢</a></td>
     <td align="center"><a href="https://rnokhs.tistory.com/"><img src="https://avatars.githubusercontent.com/u/72328687?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hansu Kim</b></sub></a><br /><a href="#infra-mokhs00" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-mokhs00" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/kyY00n"><img src="https://avatars.githubusercontent.com/u/61582017?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kayoung Yoon</b></sub></a><br /><a href="#infra-kyY00n" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-kyY00n" title="Talks">📢</a></td>
   </tr>
 </table>
 
