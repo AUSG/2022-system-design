@@ -1,4 +1,7 @@
 # 2022-system-design
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 숙제 인증 또는 추가 방법
 
@@ -14,18 +17,25 @@
 
 # 🍕 시스템 설계 기초 참여 멤버 🍕
 
-| [@14km](https://github.com/14km)                                        | [@enif-lee](https://github.com/enif-lee)                                | [@AllyHyeseongKim](https://github.com/AllyHyeseongKim)                          | [@kshired](https://github.com/kshired)                                  |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| ![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1)    | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
-| [@mokhs00](https://github.com/mokhs00)                                          | [다롬](https://github.com/enif-lee)                                      | [선효](https://github.com/AllyHyeseongKim)                                       | [지수](https://github.com/kshired)                                       |
-| ![@mokhs00](https://avatars.githubusercontent.com/u/72328687?s=150&v=1)    | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
-| [kaonmir](https://github.com/kaonmir)                                   | [은주](https://github.com/enif-lee)                                      | [@KyY00n](https://github.com/KyY00n)                                       | [서우](https://github.com/kshired)                                       |
-| ![@kaonmir](https://avatars.githubusercontent.com/u/40649016?s=150&v=1) | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@KyY00n](https://avatars.githubusercontent.com/u/61582017?s=150&v=1) | ![@kshired](https://avatars.githubusercontent.com/u/36851531?s=150&v=1) |
-| [@kather0220](https://github.com/14km)                                          | [휘정](https://github.com/enif-lee)                                      | [혜수](https://github.com/AllyHyeseongKim)                                       | -                                                                       |
-| ![@kather0220](https://avatars.githubusercontent.com/u/78165538?s=150&v=1)    | ![@enif-lee](https://avatars.githubusercontent.com/u/9916002?s=150&v=1) | ![@AllyHyeseongKim](https://avatars.githubusercontent.com/u/39588623?s=150&v=1) | -                                                                       |
+## Contributors
 
-## 멤버 추가 방법
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/14km"><img src="https://avatars.githubusercontent.com/u/45898974?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MinTae Kim</b></sub></a><br /><a href="#infra-14km" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/AUSG/2022-system-design/commits?author=14km" title="Code">💻</a></td>
+  </tr>
+</table>
 
-- `[@14km](https://github.com/14km)` 다음과 같은 본인의 닉네임과 멘션을 추가한다.
-- 본인의 프로필을 기준으로 하여 [마우스 우클릭 - 이미지 주소 복사]를 실행한다.
-- `![@14km](https://avatars.githubusercontent.com/u/45898974?s=150&v=1)` 다음과 같이 Query String을 `s=150, v=1` 지정한다.
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
