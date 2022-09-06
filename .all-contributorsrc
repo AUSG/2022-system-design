@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "14km",
+      "name": "MinTae Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45898974?v=4",
+      "profile": "https://github.com/14km",
+      "contributions": [
+        "infra",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "2022-system-design",
+  "projectOwner": "AUSG",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
