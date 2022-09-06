@@ -1,6 +1,6 @@
 # 2022-system-design
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 숙제 인증 또는 추가 방법
@@ -34,6 +34,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kather0220"><img src="https://avatars.githubusercontent.com/u/78165538?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kather0220</b></sub></a><br /><a href="#infra-kather0220" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-kather0220" title="Talks">📢</a></td>
+    <td align="center"><a href="https://blog.naver.com/jd06280"><img src="https://avatars.githubusercontent.com/u/61075048?v=4?s=100" width="100px;" alt=""/><br /><sub><b>eunz_juu</b></sub></a><br /><a href="#infra-Song-EunJu" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#talk-Song-EunJu" title="Talks">📢</a></td>
   </tr>
 </table>
 
