@@ -124,6 +124,16 @@
         "infra",
         "talk"
       ]
+    },
+    {
+      "login": "ritty27",
+      "name": "JiSoo Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32264819?v=4",
+      "profile": "https://github.com/ritty27",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
