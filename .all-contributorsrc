@@ -14,6 +14,126 @@
         "infra",
         "code"
       ]
+    },
+    {
+      "login": "enif-lee",
+      "name": "enif.lee (eric at CHAI)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9916002?v=4",
+      "profile": "http://sticky32.tistory.com/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "AllyHyeseongKim",
+      "name": "AllyHyeseongKim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39588623?v=4",
+      "profile": "https://www.linkedin.com/in/allyhyeseongkim/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "kshired",
+      "name": "SEONGILKIM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36851531?v=4",
+      "profile": "https://velog.io/@kshired",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "kaonmir",
+      "name": "Kaonmir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40649016?v=4",
+      "profile": "https://github.com/kaonmir",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "mokhs00",
+      "name": "Hansu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72328687?v=4",
+      "profile": "https://github.com/mokhs00",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "kyY00n",
+      "name": "Kayoung Yoon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61582017?v=4",
+      "profile": "https://github.com/kyY00n",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "kather0220",
+      "name": "kather0220",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78165538?v=4",
+      "profile": "https://github.com/kather0220",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "Song-EunJu",
+      "name": "eunz_juu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61075048?v=4",
+      "profile": "https://blog.naver.com/jd06280",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "vo0a",
+      "name": "Darom Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44438366?v=4",
+      "profile": "https://dar0m.tistory.com/",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "dltjdn",
+      "name": "dltjdn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78267146?v=4",
+      "profile": "https://github.com/dltjdn",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "cokkum113",
+      "name": "Stormi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84273370?v=4",
+      "profile": "https://velog.io/@cokkum113",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
+    },
+    {
+      "login": "ritty27",
+      "name": "JiSoo Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32264819?v=4",
+      "profile": "https://github.com/ritty27",
+      "contributions": [
+        "infra",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7,
